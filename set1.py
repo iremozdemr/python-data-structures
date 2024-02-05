@@ -1,7 +1,7 @@
 #list items are
 #unordered
 #unchangeable
-#dont allow duplicate values
+#not allow duplicate values
 #unindexed
 
 #sets are created using curly brackets

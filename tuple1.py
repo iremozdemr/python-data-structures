@@ -6,13 +6,10 @@
 #tuples are created using round brackets
 
 mytuple = ("a",1,"a",2,"b",False)
+
 print(mytuple)
 print(len(mytuple))
-
 print(type(mytuple))
-#tuples are defined as objects in python
-#tuple's data type is "tuple"
-
 print(mytuple[0])
 
 tuple1 = ("x")

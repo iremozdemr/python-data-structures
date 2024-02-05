@@ -14,4 +14,3 @@ print(mytuple)
 
 del mytuple
 #print(mytuple) -> error
-#you can delete the tuple
