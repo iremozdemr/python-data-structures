@@ -1,7 +1,10 @@
-#list items are
-#ordered
-#changeable
-#allow duplicate values
+#list:
+#-değiştirilebilir
+#-sıralıdır
+#-index işlemleri yapılabilir
+#-farklı veri tipleri aynı list'e eklenebilir
+#-list içine list eklenebilir
+#-aynı element tekrar eklenebilir
 
 #if you add new items to a list
 #the new items will be placed at the end of the list
